@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "first.html",
+    "href": "first.html",
+    "title": "first page",
+    "section": "",
+    "text": "first page test"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "website",
+    "section": "",
+    "text": "Test"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Pet project started after years of procrastination.\n\n1 + 1\n\n[1] 2"
+  }
+]
