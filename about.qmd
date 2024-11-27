@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Pet project started after years of procrastination.
+
+```{r}
+1 + 1
+```
